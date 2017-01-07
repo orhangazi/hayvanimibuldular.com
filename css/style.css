@@ -1,0 +1,40 @@
+.hb-no{
+    font-size: 25px;
+    font-weight: 600;
+}
+
+.bekleniyor{
+    position: absolute;
+    top: -4px;
+}
+
+.bilgiler{
+    margin-bottom: 10px;
+}
+
+.koseleri-duzlestir{
+    border-radius: 0;
+}
+
+.input-ust{
+    border-bottom-left-radius: 0;
+    border-bottom-right-radius: 0;
+}
+
+.input-alt{
+    border-top-left-radius: 0;
+    border-top-right-radius: 0;
+}
+
+.panel-heading-duzenle{
+    position: relative;
+    height: 34px;
+}
+
+.panel-heading-dugme{
+    right: 0;
+    top: 0;
+    position: absolute;
+    border-top-left-radius: 0;
+    border-bottom-left-radius: 0;
+}
